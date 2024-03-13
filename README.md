@@ -22,7 +22,9 @@ How to Contribute:
 If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any enhancements, bug fixes, or additional features are welcome!
 
 
-2. Rolling Dice
+2. Rolling_Dice.py
+
+   
 The Rolling Dice program is a Python script that simulates rolling a dice for multiple players. It allows users to specify the number of players and their names, then rolls a dice for each player and displays the result along with a graphical representation of the dice face.
 
 Features:
@@ -42,5 +44,42 @@ Enter the number of players and their names.
 Press enter to roll the dice for each player.
 View the numerical result and the graphical representation of the dice face.
 Choose to roll the dice again or exit the program.
+
+How to Contribute:
+If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any enhancements, bug fixes, or additional features are welcome!
+
+
+3. Banking System
+   
+The Banking System program is a Python script that simulates an Automated Teller Machine (ATM) for basic banking operations. It allows users to perform various banking tasks such as checking account balance, withdrawing funds, depositing money, and receiving account details via SMS.
+
+Features:
+PIN Authentication: Users are prompted to enter a PIN to access their accounts. The default PIN is '1234'.
+
+Menu Options: Once authenticated, users can choose from a menu of options:
+
+Check account balance
+Withdraw funds
+Deposit money
+Receive account details via SMS
+Exit
+Account Operations:
+
+Check Account Balance: Users can view their current account balance.
+Withdraw Funds: Users can withdraw money from their accounts, with the balance updated accordingly.
+Deposit Money: Users can deposit money into their accounts, with the balance updated accordingly.
+SMS Account Details: Users can receive their account details via SMS by providing a valid mobile number.
+Exit: Users can choose to exit the ATM system.
+Security Measures: The system limits the number of PIN entry attempts to three, enhancing security against unauthorized access.
+
+Usage:
+Run the script.
+Follow the on-screen prompts to authenticate with your PIN and perform banking operations.
+Choose the desired operation from the menu and follow the instructions.
+Note:
+The default PIN for accessing the ATM is '1234'.
+The initial account balance is set to $1000.
+
+
 How to Contribute:
 If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any enhancements, bug fixes, or additional features are welcome!
