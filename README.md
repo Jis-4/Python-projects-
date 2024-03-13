@@ -20,3 +20,27 @@ Choose an option from the menu:
 3: Exit
 How to Contribute:
 If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any enhancements, bug fixes, or additional features are welcome!
+
+
+2. Rolling Dice
+The Rolling Dice program is a Python script that simulates rolling a dice for multiple players. It allows users to specify the number of players and their names, then rolls a dice for each player and displays the result along with a graphical representation of the dice face.
+
+Features:
+Multiple Players: Users can specify the number of players participating in the dice rolling game.
+
+Player Names: Users can input the names of each player.
+
+Rolling Dice: The script simulates rolling a standard six-sided dice for each player.
+
+Visual Representation: Along with the numerical result, the program displays a graphical representation of the dice face corresponding to the rolled value.
+
+Roll Again: After displaying the results for all players, the program prompts the user if they want to roll the dice again.
+
+Usage:
+Run the script.
+Enter the number of players and their names.
+Press enter to roll the dice for each player.
+View the numerical result and the graphical representation of the dice face.
+Choose to roll the dice again or exit the program.
+How to Contribute:
+If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any enhancements, bug fixes, or additional features are welcome!
